@@ -8,7 +8,7 @@
 
 
 require_once dirname(__FILE__).'/vendor/autoload.php';
-use tp5\validate\Validate;
+use validate5\Validate;
 
 $validate = new Validate([
     'name' => 'require|max:3',

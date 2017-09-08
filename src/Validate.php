@@ -1,9 +1,7 @@
 <?php
 
 
-namespace tp5\validate;
-
-use tp5\validate\ClassNotFoundException;
+namespace validate5;
 
 class Validate
 {

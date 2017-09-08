@@ -1,6 +1,6 @@
 <?php
 
-namespace  tp5\validate;
+namespace  validate5;
 class ClassNotFoundException extends \RuntimeException
 {
     protected $class;

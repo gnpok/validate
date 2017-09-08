@@ -14,7 +14,7 @@
     ],
     "autoload":{
         "psr-4":{
-            "tp5\\validate\\" : "src/"
+            "validate5\\" : "src/"
         }
     },
     "minimum-stability": "stable"
