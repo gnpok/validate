@@ -1,0 +1,21 @@
+{
+    "name": "tp5/validate",
+    "description": "基于tp5的validate",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hodor",
+            "email": "gnpok@qq.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "tp5\\validate\\" : "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
